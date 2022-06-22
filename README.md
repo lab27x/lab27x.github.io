@@ -1,3 +1,1 @@
-HELLO.. from Lab 27X !
-
-Research and Development consulting company based out of India, please reach out to us at hello@lab27x.in
+We are a Research and Development consulting company based out of India, say hello at hello@lab27x.in
